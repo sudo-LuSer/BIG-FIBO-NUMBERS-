@@ -1,6 +1,3 @@
-import math
-import numpy 
-import sys
 NMAX = (10**7)+1
 FiboIdentity = [[1,1],
 				[1,0]]
